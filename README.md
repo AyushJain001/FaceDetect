@@ -1,3 +1,10 @@
 # FaceDetect
-![Screenshot (467)](https://user-images.githubusercontent.com/90152799/222406743-f69dae32-65b3-45db-90a1-251b9b2fa741.png)
-<img width="773" alt="image" src="https://user-images.githubusercontent.com/90152799/224496351-1db1e53f-7d7a-4070-8591-6aa6fd2284fa.png">
+
+Before registration of an image
+
+<img width="515" alt="image" src="https://user-images.githubusercontent.com/90152799/224790358-e0ee4741-b06a-4bb9-bcb9-765040ad97aa.png">
+
+
+After registration of facial 
+
+<img width="499" alt="image" src="https://user-images.githubusercontent.com/90152799/224790541-0c000d7c-cb04-467d-9f78-a481bd5070ab.png">
