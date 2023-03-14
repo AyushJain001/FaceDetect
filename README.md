@@ -1,5 +1,5 @@
 # FaceDetect
-
+This application helps user to register his/her face and helps in facial recongition which has immense application in attendence application
 Before registration of an image
 
 <img width="515" alt="image" src="https://user-images.githubusercontent.com/90152799/224790358-e0ee4741-b06a-4bb9-bcb9-765040ad97aa.png">
